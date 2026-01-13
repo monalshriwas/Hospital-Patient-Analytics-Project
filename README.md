@@ -4,7 +4,7 @@ This project analyzes hospital patient data for 2023 and 2024 to understand pati
 ## Objective
 
 - Analyze patient visits across two years
-- Understand waiting time and attendance delays
+- Understand waiting time and delays
 - Measure patient satisfaction
 - Identify department referral patterns
 - Compare year-over-year performance
