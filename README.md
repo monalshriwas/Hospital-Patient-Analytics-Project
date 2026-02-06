@@ -11,7 +11,7 @@ This project analyzes hospital patient data for 2023 and 2024 to understand pati
 
 ## Tools Used
 
-### Microsoft Excel
+### Microsoft Excel(Advanced)
 - Power Query – data cleaning and transformation
 - Pivot Tables – data summarization
 - Charts & Visuals – bar charts, pie charts, KPI cards
