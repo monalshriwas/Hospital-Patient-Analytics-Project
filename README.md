@@ -24,6 +24,10 @@ This project analyzes hospital patient data for 2023 and 2024 to understand pati
 - Patient satisfaction improved
 - Waiting time increased
 
+  ## Dashboard
+  
+<img width="761" height="714" alt="image" src="https://github.com/user-attachments/assets/0b4c221e-f8af-480d-992c-40668832000f" />
+
 ## Conclusion
 
 The dashboard shows that while patient demand and satisfaction level improved, waiting time also increased. 
