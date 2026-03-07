@@ -19,7 +19,7 @@ This project analyzes hospital patient data for 2023 and 2024 to understand pati
 
 ## Dashboard Preview
 
-![Hospital Patient Analytics Dashboard](dashboard_overview.png)
+![Hospital Patient Analytics Dashboard](dashboard _overview.png)
 
 ## Key insights
 
