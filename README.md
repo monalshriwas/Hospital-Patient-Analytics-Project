@@ -16,6 +16,10 @@ This project analyzes hospital patient data for 2023 and 2024 to understand pati
 - Pivot Tables – data summarization
 - Charts & Visuals – bar charts, pie charts, KPI cards
 - Slicers – year and month filtering
+ 
+## Dashboard
+
+![Hospital Patient Analytics Dashboard](Dashboard%20overview.Screenshot.png)
 
 ## Key insights
 
