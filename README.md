@@ -19,7 +19,7 @@ This project analyzes hospital patient data for 2023 and 2024 to understand pati
 
 ## Dashboard Preview
 
-![Hospital Patient Analytics Dashboard](dashboard _overview.png)
+![Dashboard](dashboard_overview.png)
 
 ## Key insights
 
@@ -27,9 +27,6 @@ This project analyzes hospital patient data for 2023 and 2024 to understand pati
 - Average waiting time increased due to higher patient load
 - Patient satisfaction improved
 - Waiting time increased
-
-  ## Dashboard
-  
 
 ## Conclusion
 
